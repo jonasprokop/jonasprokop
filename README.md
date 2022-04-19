@@ -1,6 +1,6 @@
 Hello
 
-Welcome to my github repository
+Welcome to my github
 
 Feel free to enjoy!
 
