@@ -1,4 +1,6 @@
-Hello to yall and welcome in my github repository
+Hello to y'all  
+
+Welcome to my github repository
 
 The place of data science, research and machine learning
 
