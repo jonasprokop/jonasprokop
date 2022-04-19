@@ -1,8 +1,6 @@
-Hello to y'all  
+Hello
 
 Welcome to my github repository
-
-The place of data science, research and machine learning
 
 Feel free to enjoy!
 
