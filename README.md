@@ -1,8 +1,10 @@
 # Hi there, welcome to my GitHub! 👋
 
-I am **Jonas Prokop**, a Data Scientist and Software Engineer with a passion for exploring the intersections of data science, machine learning and software development.
-Currently, I work as a Research Assistant at the **Computational Systems Neuroscience Group at MFF UK**, where I develop novel use cases of machine learning aplications in Neuroscience. (https://csng.mff.cuni.cz/)
+I’m **Jonáš Prokop**, a Data Scientist, Software Engineer, and Molecular Biologist fascinated by how structure gives rise to intelligence — whether it’s in molecules, cells, or whole neural systems.
 
+I currently work as a Research Assistant at the Computational Systems Neuroscience Group (CSNG), Charles University (MFF UK), where I develop biologically grounded machine-learning models that connect neural computation with real cortical data.
+
+My interests span physics, chemistry, and biology — from the dynamics of molecules and proteins to neural physiology and the machine-learning models that seek to understand them.
 ## Areas of Interest:
 
 - Data Science: Extracting insights and driving decisions with data.
